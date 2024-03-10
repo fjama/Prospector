@@ -1,7 +1,7 @@
 # Prospector
 
-## ProSpector will serve as the central hub for SFSU student employment in the Tech industry. Our application lets companies create a profile, which gives access to post job advertisements with their certain qualifications. 
-
+#### ProSpector will serve as the central hub for SFSU student employment in the Tech industry. Our application lets companies create a profile, which gives access to post job advertisements with their certain qualifications. Our algorithm will then match them with a potential candidate. Our service allows companies to search for candidates based on the requirements they are looking for.
+<br>
 
 | Student Name          |        Student Email        | GitHub Username |
 |    :---:              |            :---:            |     :---:       |
