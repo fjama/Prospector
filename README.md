@@ -1,6 +1,6 @@
-# csc648 Repository
-## ProSpector
-### SFSU Software Engineering Project CSC 648-848, Spring 2021
+# Prospector
+
+## ProSpector will serve as the central hub for SFSU student employment in the Tech industry. Our application lets companies create a profile, which gives access to post job advertisements with their certain qualifications. 
 
 
 | Student Name          |        Student Email        | GitHub Username |
@@ -10,6 +10,3 @@
 | Cameron Cirini        | ccirini@mail.sfsu.edu       | ccirini         |
 | Zhuojun He (George)   | zhuojun@mail.sfsu.edu       | ZhouJunHe       |
 | Faisa Jama            | fjama2@mail.sfsu.edu        | fjama           |
-| member6               |                             |                 |
-
-# Prospector
