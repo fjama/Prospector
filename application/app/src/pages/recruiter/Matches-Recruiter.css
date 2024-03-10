@@ -1,0 +1,169 @@
+.matches-recruiter{
+    width: 100%;
+}
+
+.matches-recruiter-h1{
+    text-align: left;
+    margin-left: 30px;
+    font-weight: bold;
+}
+
+.matches-recruiter-container1{
+    border: 2px solid #FFDE59;
+    border-radius: 15px;
+    padding: 10px 0px 0px 0px;
+    width: 800px;
+    height: auto;
+    margin: 10px 0px 15px 60px;
+    text-align: left; 
+}
+
+.matches-recruiter-h2{
+    color: #463077;
+    margin: 0px 0px 15px 15px;
+    font-weight: bold;
+}
+
+.matches-recruiter-p{
+    margin: .2rem 0rem .3rem 1rem;
+    width: 100%;
+    font-size: 100%;
+    font-weight: 600;
+}
+
+.matches-recruiter-container2{
+    border: 2px solid #463077;
+    border-radius: 15px;
+    padding: 10px 0px 0px 0px;
+    width: 800px;
+    height: auto;
+    margin: 10px 0px 15px 60px;
+    text-align: left; 
+}
+
+.matches-recruiter-row1{
+    border-top: 2px solid #FFDE59;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    background-color: #FFFF;
+    padding: 0px 2px 0px 500px;
+}
+
+.matches-recruiter-row2{
+    border-top: 2px solid #463077;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    background-color: #FFFF;
+    padding: 0px 2px 0px 580px;
+}
+
+.matches-recruiter-btn1{
+    color:#463077;
+    background-color:#FFFF;
+    border-color:#C99700;
+    margin: 10px 10px 10px 10px; 
+    font-size: large;
+    font-weight: bolder;
+    
+}
+
+.matches-recruiter-btn2{
+    color:#ffff;
+    background-color:#463077;
+    border-color:#463077;
+    margin: 10px 10px 10px 10px; 
+    font-size: large;
+    font-weight: bolder;
+    
+}
+.matches-recruiter-btn3{
+    color:#463077;
+    background-color:#FFDE59;
+    border-color:#C99700;
+    margin: 10px 10px 10px 10px; 
+    font-size: large;
+    font-weight: bolder;
+
+}
+
+.viewRecommends-h1 {
+    text-align: left;
+    margin-left: 25px;
+    margin-top: 20px;
+}
+
+@media only screen and (max-width: 600px) {
+    .matches-recruiter{
+        width: 100%;
+    }
+    
+    .matches-recruiter-h1{
+        width: 100%;
+        font-size: 130%;
+        margin: 10px;
+        text-align: left;
+    }
+    
+    .matches-recruiter-container1{
+        padding-top: 3px;
+        width: 97%;
+        margin: 5px 5px 15px 5px;
+        height: auto;
+    }
+    
+    .matches-recruiter-h2{
+        width: 100%;
+		font-size: 100%;
+    }
+    
+    .matches-recruiter-p{
+        width: 100%;
+        font-size: 70%;
+        margin: .3rem .5rem;
+    }
+
+    .matches-recruiter-container2{
+        padding-top: 3px;
+        width: 97%;
+        margin: 5px 5px 15px 5px;
+        height: auto;
+    }
+
+    .matches-recruiter-row1{
+        background-color: #FFFF;
+        width: 100%;
+		font-size: 100%;
+        padding: 3px 15px !important;
+        display: inherit;
+    }
+    
+    .matches-recruiter-row2{
+        background-color: #FFFF;
+        width: 100%;
+		font-size: 100%;
+        padding: 3px 15px !important;
+        display: inherit;
+    }
+
+    .matches-recruiter-btn1{
+        margin-left: 90px;
+        font-size: small;
+        height: 100%;
+        padding: 0.3em;
+    }
+    
+    .matches-recruiter-btn2{
+        margin: 10px 0px 10px 10px;
+        font-size: small;
+        padding: 0.3em;
+        width: 30%; 
+    }
+
+    .matches-recruiter-btn3{
+        margin-left: 110px;
+        font-size: small;
+        height: 60%;
+        width: 27%;
+        padding: 0.4em 0.8em;
+    }
+}

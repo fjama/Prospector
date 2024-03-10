@@ -1,0 +1,18 @@
+[
+    {
+        "value": "default",
+        "label": "--"
+    },
+    {
+        "value": "yes",
+        "label": "yes"
+    },
+    {
+        "value": "no",
+        "label": "no"
+    },
+    {
+        "value": "prefer not to say",
+        "label": "prefer not to say"
+    }
+]

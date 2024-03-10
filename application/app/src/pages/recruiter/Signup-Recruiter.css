@@ -1,0 +1,66 @@
+.signup-recruiter {
+	border: 2px solid #463077;
+	border-radius: 25px;
+	padding: 50px;
+	width: 600px;
+	height: 600px;
+	margin: 0 auto;
+}
+
+.signup-recruiter-form {
+	float: left;
+	text-align: left;
+	padding: 10px;
+	max-width: 600px;
+}
+
+.signup-recruiter-h1 {
+	margin-bottom: 10px;
+}
+
+.signup-recruiter-row {
+	border: 2px solid #C99700;
+}
+
+.signup-recruiter-btn {
+	color: #ffff;
+	background-color: #463077;
+	border-color: #463077;
+	margin-left: 350px;
+	margin-top: 10px;
+	font-weight: bolder;
+}
+
+@media only screen and (max-width: 600px) {
+	.signup-recruiter {
+		width: 97%;
+	}
+	
+	.signup-recruiter-form {
+		padding: 10px 0px 10px 0px;
+        width: 97%;
+        height: 100%;
+        margin: 0px 5px 0px 5px;
+	}
+	
+	.signup-recruiter-h1 {
+		width: 100%;
+        font-size: 120%;
+        margin: 0px 0px 10px 0px;
+	}
+	
+	.signup-recruiter-row {
+		width: 100%;
+        font-size: 90%;
+	}
+	
+	.signup-recruiter-btn {
+		margin: 20px 10px 10px 10px; 
+        font-size: large;
+        font-weight: bolder;
+        width: 90%;
+        height: 40px;
+
+
+	}
+}

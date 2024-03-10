@@ -1,0 +1,38 @@
+[
+    {
+        "value": "default",
+        "label": "--"
+    },
+    {
+        "value": "Black",
+        "label": "Black"
+    },
+    {
+        "value": "White",
+        "label": "White"
+    },
+    {
+        "value": "Hispanic or Latino",
+        "label": "Hispanic or Latino"
+    },
+    {
+        "value": "Asian or Asian American",
+        "label": "Asian or Asian American"
+    },
+    {
+        "value": "American Indian",
+        "label": "American Indian"
+    },
+    {
+        "value": "Native Hawaiian",
+        "label": "Native Hawaiian"
+    },
+    {
+        "value": "Other",
+        "label": "Other"
+    },
+    {
+        "value": "Prefer not to say",
+        "label": "Prefer not to say"
+    }
+]

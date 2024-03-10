@@ -1,0 +1,63 @@
+body {
+  /* background-color: #F0F0F0; */
+}
+
+.background {
+  position: absolute;
+  width: 100%;
+  height: 55%;
+}
+
+.page-container {
+  position: absolute;
+  margin-top: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  left: 0;
+  right: 0;
+  text-align: center;
+  background: #FFFFFF;
+  border-radius: 10px;
+}
+
+.profile-picture {
+  width: 274px;
+  height: 274px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: -100px;
+}
+
+.name {
+  padding-top: 5vh;
+}
+
+.city {
+  padding-top: 1vh;
+  color: #868B93;
+}
+
+.title {
+  padding-top: 1vh;
+  color: #868B93;
+}
+
+.bio {
+  padding: 2vh;
+}
+
+.footer {
+  position: absolute;
+  text-align: center;
+  left: 0;
+  right: 0;
+  padding: 20vh 10vw 0 10vw;
+}
+
+.footer-member {
+  position: absolute;
+  text-align: center;
+  left: 0;
+  right: 0;
+  bottom: -15em;
+}

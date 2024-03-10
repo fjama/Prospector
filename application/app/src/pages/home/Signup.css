@@ -1,0 +1,53 @@
+.signup { 
+    border: 2px solid #C99700;
+    border-radius: 25px;
+    padding: 50px;
+    width: 600px;
+    height: 600px;
+    margin: 0 auto; 
+}
+
+.signup-h1 { 
+    text-align: center; 
+}
+
+.signup-container { 
+    margin: 0 auto; 
+}
+
+.signup-btn {
+    display: block;
+    padding: 25px;
+    margin: 40px 30px 30px 40px; 
+    font-size: large;
+    font-weight: bolder;
+}
+
+@media only screen and (max-width: 600px) {
+    .signup { 
+        padding: 30px 2px 30px 2px;
+        width: 97%;
+        height: 500px;
+        margin: 10px 5px 10px 7px;
+    
+    }    
+    
+    .signup-h1 { 
+        width: 100%;
+        font-size: 130%;
+        margin: auto; 
+    }
+    
+    .signup-container { 
+        height: 100%; 
+        text-align: left;
+    }
+    .signup-btn {
+        margin: 25px 10px 10px 10px; 
+        font-size: large;
+        font-weight: bolder;
+        width: 95%;
+        padding: 0.5em;
+
+    }
+}

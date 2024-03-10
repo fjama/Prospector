@@ -1,0 +1,110 @@
+.home-student-h1{
+    margin-left: 50px;
+    font-weight: bold;
+    text-align: left;
+}
+
+.home-student-container{
+    border: 2px solid #FFDE59;
+    border-radius: 15px;
+    padding: 10px 0px 0px 0px;
+    width: 800px;
+    height: 100%;
+    margin: 10px 0px 15px 60px; 
+    text-align: left;  
+}
+
+.home-student-h2{
+    color: #463077;
+    margin: 15px 0px 15px 15px;
+    font-weight: bold;
+}
+
+.home-student-p{
+    margin: 0rem 1rem;
+}
+
+.home-student-row{
+    border-top: 2px solid #FFDE59;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    background-color: #FFFF;
+    padding-bottom: 9px;
+}
+
+.home-student-col{
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+.home-student-btn1{
+    color:#463077;
+    background-color:#FFFF;
+    border-color:#C99700;
+    margin: 10px 10px 10px 10px; 
+    font-size: large;
+    font-weight: bolder;
+    
+}
+
+.home-student-btn2{
+    color:#ffff !important;
+    background-color:#463077 !important;
+    border-color:#463077 !important;
+    margin: 10px 10px 10px 10px; 
+    font-size: large;
+    font-weight: bolder;
+    
+}
+
+@media only screen and (max-width: 600px) {
+    .home-student{
+        width: 100%;
+    }
+    
+    .home-student-h1{
+        width: 100%;
+        font-size: 130%;
+        margin: 10px;
+        text-align: left;
+    }
+    
+    .home-student-container{
+        padding-top: 3px;
+        width: 97%;
+        margin: 5px 5px 5px 5px;
+    }
+    
+    .home-student-h2{
+        width: 100%;
+		font-size: 100%;
+    }
+    
+    .home-student-row{
+        background-color: #FFFF;
+        width: 100%;
+		font-size: 100%;
+        padding: 3px 15px !important;
+        display: inherit;
+    }
+    
+    .home-student-col{
+        margin: 10px 0px;
+        font-size: 90%;
+        padding: 1px;
+    }
+    
+    .home-student-btn1{
+        margin-left: 90px;
+        font-size: small;
+        height: 100%;
+        padding: 0.3em;
+    }
+    
+    .home-student-btn2{
+        margin: 10px 0px 10px 10px;
+        font-size: small;
+        padding: 0.3em;
+        width: 30%; 
+    }
+}

@@ -1,0 +1,76 @@
+.signup-professor {
+	border: 2px solid #463077;
+	border-radius: 25px;
+	padding: 50px;
+	width: 600px;
+	height: auto;
+	margin: 0 auto; 
+}
+
+.signup-professor-form {
+	float: left;
+	text-align: left;
+	padding: 10px;
+	max-width: 600px;
+}
+
+.signup-professor-h1 {
+	margin-bottom: 10px;
+}
+
+.signup-professor-row {
+	border: 2px solid #C99700;
+}
+
+.signup-professor-btn {
+	color: #ffff;
+	background-color: #463077;
+	border-color: #463077;
+	margin-left: 350px;
+	margin-top: 10px;
+	font-weight: bolder;
+}
+
+.passwordText {
+	color: #dc3545;
+	font-size: 80%;
+	margin-top: .25rem;
+}
+
+@media only screen and (max-width: 600px) {
+	.signup-professor {
+		width: 97%; 
+	}
+	
+	.signup-professor-form {
+		padding: 10px 0px 10px 0px;
+        width: 97%;
+        height: 100%;
+        margin: 0px 5px 0px 5px;
+	}
+	
+	.signup-professor-h1 {
+		width: 100%;
+        font-size: 120%;
+        margin: 0px 0px 10px 0px;
+	}
+	
+	.signup-professor-row {
+		width: 100%;
+        font-size: 90%;
+	}
+	
+	.signup-professor-btn {
+		margin: 20px 10px 10px 10px; 
+        font-size: large;
+        font-weight: bolder;
+        width: 90%;
+        height: 40px;
+	}
+	
+	.passwordText {
+		color: #dc3545;
+		font-size: 80%;
+		margin-top: .25rem;
+	} 
+}

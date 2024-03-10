@@ -1,0 +1,142 @@
+/* .signup-student {
+    border: 2px solid #463077;
+    border-radius: 25px;
+    padding: 50px;
+    width: 600px;
+    height: 1200px;
+    margin: 0 auto; 
+}
+
+.signup-student-h1 {
+    text-align: left;
+}
+
+.signup-student-form {
+    padding: 10px;
+}
+
+.eeo-h2 {
+    color: #463077;
+    margin-top: 70px;
+}
+
+.eeo-paragraph {
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.signup-student-row {
+    margin: 0px;
+    padding: 7px 35px;
+    font: 700 70% sans-serif;
+}
+
+.signup-student-btn {
+    color:#ffff;
+    background-color:#463077;
+    border-color:#463077;
+    margin-top: 15px;
+    font-weight: bolder;
+} */
+
+.signup-student {
+	border: 2px solid #463077;
+	border-radius: 25px;
+	padding: 50px;
+	width: 700px;
+	height: 1100px;
+	margin: 0 auto;
+}
+
+.signup-student-form {
+	float: left;
+	text-align: left;
+	padding: 10px;
+	max-width: 600px;
+}
+
+.signup-student-h1 {
+	margin-bottom: 10px;
+}
+
+.signup-student-row {
+	border: 2px solid #C99700;
+}
+
+.signup-student-row-eeo {
+	/* margin: 0px; */
+	padding: 7px;
+	/* font: 700 70% sans-serif; */
+	/* font-size: 80%; */
+	font-size: 10%;
+}
+
+.eeo-h2 {
+	color: #463077;
+	margin-top: 70px;
+}
+
+.dropdown {
+	font-size: 12px;
+}
+
+.form-label {
+	font-size: 14px;
+}
+
+/* .eeo-paragraph {
+	padding-left: 10%;
+	padding-right: 10%;
+} */
+
+.signup-student-btn {
+	color: #ffff;
+	background-color: #463077;
+	border-color: #463077;
+	margin-left: 350px;
+	margin-top: 10px;
+	font-weight: bolder;
+}
+
+@media only screen and (max-width: 600px) {
+	.signup-student {
+		width: 97%;
+		height: 1570px;
+	}
+	
+	.signup-student-form {
+		padding: 10px 0px 10px 0px;
+        width: 97%;
+        height: 100%;
+        margin: 0px 5px 0px 5px;
+	}
+	
+	.signup-student-h1 {
+		width: 100%;
+        font-size: 120%;
+        margin: 0px 0px 10px 0px;
+	}
+	
+	.signup-student-row {
+		width: 100%;
+        font-size: 90%;
+	}
+
+	.signup-student-row-eeo {
+		display: block;
+		font-size: 60%;
+	}
+	
+	.eeo-h2 {
+		width: 100%;
+		font-size: 130%;
+	}
+	
+	.signup-student-btn {
+		margin: 20px 10px 10px 10px; 
+        font-size: large;
+        font-weight: bolder;
+        width: 90%;
+        height: 40px;
+	}
+}

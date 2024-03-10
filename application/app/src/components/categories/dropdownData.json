@@ -1,0 +1,35 @@
+[
+    {
+        "value": "default",
+        "label": "Select Option"
+    },
+    {
+        "value": "major",
+        "label": "Major"
+    },
+    {
+        "value": "gender",
+        "label": "Gender"
+    },
+    {
+        "value": "ethnicity",
+        "label": "Ethnicity"
+    },
+    {
+        "value": "veteranStatus",
+        "label": "Veteran"
+    },
+    {
+        "value": "disabilityStatus",
+        "label": "Disability"
+    },
+    {
+        "value": "financialAidStatus",
+        "label": "Financial Aid"
+    },
+    {
+        "value": "firstGeneration",
+        "label": "First Generation"
+    }
+
+]

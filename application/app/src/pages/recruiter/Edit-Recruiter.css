@@ -1,0 +1,95 @@
+.account-h1{
+    text-align: left;
+    padding-top: 15px;
+    margin: 0px 0px 10px 75px;  
+}
+
+.account-container{
+    border: 2px solid #FFDE59;
+    border-radius: 25px;
+    padding: 10px 0px 0px 0px;
+    width: 700px;
+    height: 500px;
+    margin: 0px 0px 0px 60px; 
+    text-align: left;
+}
+
+.edit-row{
+    
+    margin: 0px 100px 0px 0px;
+    padding: 7px 10px;
+}
+
+.edit-professor-btn{
+    color:#ffff;
+    background-color:#463077;
+    border-color:#463077; 
+    margin-left: 400px;
+    font-size: large;
+    font-weight: bolder;
+}
+@media only screen and (max-width: 600px) {
+    .account{
+        width: 100%;
+    }
+
+    .account-h1{
+        width: 100%;
+        font-size: 200%;
+        margin: 0px 0px 10px 25px;
+
+    }
+
+    .account-container{
+        border: 2px solid #FFDE59;
+        border-radius: 25px;
+        padding: 10px 0px 10px 0px;
+        width: 97%;
+        height: 100%;
+        margin: 0px 5px 0px 5px; 
+        text-align: left;
+
+    }
+
+    .account-row{
+        width: 100%;
+        font-size: 90%;
+    }
+
+    .account-edit-delete{
+        color:#585555;
+        background-color:#C99700;
+        border-color:#C99700;
+        display: block;
+        margin: 10px 30px 10px 30px; 
+        font-size: small;
+        font-weight: bolder;
+        width: 70px;
+        height: 30px;
+    
+    }
+    
+    .account-professor-btn{
+        color:#ffff;
+        background-color:#463077;
+        border-color:#463077;
+        margin: 10px 10px 10px 10px; 
+        font-size: medium;
+        font-weight: bolder;
+        width: 90%;
+        height: 40px;
+    }
+
+    .edit-row{
+        margin: 2px 10px 2px 10px;
+        width: 96%;
+    }
+    
+    .edit-professor-btn{
+        margin: 20px 10px 10px 10px; 
+        font-size: large;
+        font-weight: bolder;
+        width: 90%;
+        height: 40px;
+    }
+}

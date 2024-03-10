@@ -1,0 +1,32 @@
+.login-container {
+    margin: 0;
+}
+
+.login-h1 {
+    text-align: left;
+    color: #463077;
+}
+
+.left-side-login {
+    background-color: #463077;
+    height: 80vh;
+}
+
+@media only screen and (max-width: 600px) {
+    .login {
+        width: 100%;
+    }
+    
+    .login-row{
+        width: 100%
+    }
+    .login-h1 {
+        width: 100%;
+        font-size: 120%;
+        text-align: center; 
+    }
+    
+    .left-side-login {
+        display: none;
+    } 
+}

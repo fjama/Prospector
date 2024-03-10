@@ -1,0 +1,26 @@
+[
+    {
+        "value": "default",
+        "label": "--"
+    },
+    {
+        "value": "male",
+        "label": "male"
+    },
+    {
+        "value": "female",
+        "label": "female"
+    },
+    {
+        "value": "nonbinary",
+        "label": "nonbinary"
+    },
+    {
+        "value": "decline to state",
+        "label": "decline to state"
+    },
+    {
+        "value": "other",
+        "label": "other"
+    }
+]
